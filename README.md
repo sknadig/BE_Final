@@ -1,5 +1,5 @@
 # BE_Final
-This if my final project at the Department of Telecommunication Engineering for Bachelor of Engineering at the Jawaharlal Nehru National College of Engineering - Shimoga.
+This if my final year project at the Department of Telecommunication Engineering for Bachelor of Engineering at the Jawaharlal Nehru National College of Engineering - Shimoga.
 
 A sign language is a language which uses manual communication and body language to
 convey meaning, as opposed to acoustically conveyed sound patterns. This can involve
